@@ -1,7 +1,4 @@
 body {
-  background-image:url(bg.jpg);
-	background-size: contain;
-	background-repeat:no-repeat;
   margin: 25%;
 }
 #calculator {
